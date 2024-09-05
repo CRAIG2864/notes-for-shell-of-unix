@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//csapp_book p31 graph 2.4
 typedef unsigned char *byte_pointer;
 
 void show_byte(byte_pointer start,size_t len){
